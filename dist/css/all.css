@@ -344,7 +344,7 @@ li.navCurr a {
 }
 
 @media (min-width: 598px) {
-	td {
+	#page1 td {
 		font-size: 12px;
 	}
 	#page1 p {
@@ -384,7 +384,7 @@ li.navCurr a {
 }
 
 @media (min-width: 768px) {
-	td {
+	#page1 td {
 		font-size: 13px;
 	}
 	#page1 p {
@@ -408,7 +408,7 @@ li.navCurr a {
 }
 
 @media (min-width: 992px) {
-	td {
+	#page1 td {
 		font-size: 14px;
 	}
 	#page1 p {
@@ -453,7 +453,7 @@ li.navCurr a {
 	#page1 p {
 		font-size: 20px;
 	}
-	td {
+	#page1 td {
 		font-size: 16px;
 	}
 	#page2 p {

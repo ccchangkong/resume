@@ -15,7 +15,10 @@ $(function() {
     },function () {
     	$(this).children().addClass('hidden')
     });
-
+    console.log("bootstrap和scrollify.js布的局，gulp打包合并压缩，主流移动端显示还行（触摸滚动没做），桌面小于21寸效果没问题，再大没测；");
+console.log("自己demo做也做了一些，不过感觉都是商场首页程度的东西，就不拿出来了，能说道的也只有跟着敲了遍jq;");
+console.log("犀牛书红皮书看的差不多了，也开始系统的补习html+css；");
+console.log("没了，2016年3月8日22:43:22");
 });
 /*
  * jQuery Easing v1.3 - http://gsgd.co.uk/sandbox/jquery/easing/
